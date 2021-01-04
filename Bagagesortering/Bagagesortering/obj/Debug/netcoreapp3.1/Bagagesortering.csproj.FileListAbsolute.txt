@@ -1,0 +1,13 @@
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.exe
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.deps.json
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.runtimeconfig.json
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.runtimeconfig.dev.json
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.dll
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\bin\Debug\netcoreapp3.1\Bagagesortering.pdb
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.AssemblyInfoInputs.cache
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.AssemblyInfo.cs
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.dll
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.pdb
+C:\Users\Mr.Gawzy\source\repos\Bagagesortering\Bagagesortering\obj\Debug\netcoreapp3.1\Bagagesortering.genruntimeconfig.cache
